@@ -1,0 +1,6 @@
+Pandas
+Scikit-Learn
+Numpy
+Scipy
+nltk
+jupyter
