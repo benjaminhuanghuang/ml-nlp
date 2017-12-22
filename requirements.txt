@@ -4,3 +4,4 @@ Numpy
 Scipy
 nltk
 jupyter
+gensim
